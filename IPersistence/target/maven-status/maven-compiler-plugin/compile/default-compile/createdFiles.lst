@@ -1,0 +1,3 @@
+com\lagou\pojo\Configuration.class
+com\lagou\sqlSession\SqlSessionFactory.class
+com\lagou\pojo\MappedStatement.class
